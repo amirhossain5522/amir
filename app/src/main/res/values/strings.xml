@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">amir backed</string>
+    <string name="rgister_now">Rgister Now</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="password">password</string>
+    <string name="registar">Registar</string>
+    <string name="i_have_already_an_account_login">I have already an account!! Login</string>
+    <string name="emil">Emil</string>
+</resources>
